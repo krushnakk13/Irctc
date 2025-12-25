@@ -9,5 +9,5 @@ class IrctcApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
+{}
 }
